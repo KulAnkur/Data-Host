@@ -6,7 +6,6 @@ import { Button } from '@/components/ui/button';
 import { Project } from '@/data/projects';       // or projectRegistry model
 import Footer from '@/components/Footer';
 import Navbar from '@/components/Navbar';
-import RentSeriesImg from '../../../LA-Fire-images/Rent-Series.png';
 import Plot from 'react-plotly.js';
 
 /* ------------------------------------------------------------------ */
